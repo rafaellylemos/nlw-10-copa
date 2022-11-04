@@ -43,5 +43,5 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by Rafaelly Lemos :wave: [LinkedIn](https://www.linkedin.com/in/rafaelly-lemos/git)
+Feito com ♥ by Rafaelly Lemos :wave: - [Acesse o meu LinkedIn](https://www.linkedin.com/in/rafaelly-lemos/git)
 (Original Design by Rocketseat - [Participe da comunidade](https://discord.gg/rocketseat))

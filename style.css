@@ -52,6 +52,7 @@ header {
   opacity: 70%;
   color: #ffffff;
   padding-bottom: 20px;
+  text-transform: capitalize;
 }
 .card {
   padding: 32px 23px;
